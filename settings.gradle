@@ -1,0 +1,2 @@
+rootProject.name = 'spring-boot-configuration-processor-example'
+include 'java-example'
